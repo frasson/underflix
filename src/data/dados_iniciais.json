@@ -1,0 +1,33 @@
+{
+  "categorias": [
+    {
+      "titulo": "Underground comix",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "text": "The Underground Comix Movement",
+          "url": "https://www.youtube.com/watch?v=Q3wBqzg8bs0"
+        },
+        {
+          "titulo": "Marcatti | Entrevista - IMPULSO HQ",
+          "url": "https://www.youtube.com/watch?v=g71I4Ujfvys"
+        }       
+      ]
+    },
+    {
+      "titulo": "Cartoonist",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "text": "Malditos Cartunistas (2011) - FILME COMPLETO",
+          "url": "https://www.youtube.com/watch?v=V3MXKkephl0"
+        },
+        {
+          "text": "Cerebus: The Narrative And The Controversies",
+          "url": "https://www.youtube.com/watch?v=-e0okB5imP4"
+        }
+      ]
+    }
+  ]
+}
